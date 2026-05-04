@@ -56,5 +56,3 @@ Aplicável a: *Todas as Pró-reitorias e Superintendências*
 
 ---
 
-> [!NOTE]
-> **Automação do Robô:** O seu script `webscraper.py` deve utilizar os termos-chave listados neste manual (ex: "Regimento", "Relatório de Gestão", "Edital") combinados com a sigla do setor para otimizar as buscas no Google, garantindo downloads mais precisos.
